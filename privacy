@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Nourava Fitness</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+
+  <h2>1. Introduction</h2>
+  <p>Nourava Fitness (“we”, “our”, or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and share your personal information when you use our app.</p>
+
+  <h2>2. Information We Collect</h2>
+  <p>• Personal Information: Name, email address, age, gender, height, weight, and fitness goal.</p>
+  <p>• Authentication Data: Firebase authentication ID and associated data.</p>
+  <p>• App Usage Data: AI-generated training plans, daily workout completion, app settings preferences.</p>
+  <p>• Device Information: Device type, OS version (via analytics).</p>
+  <p>• Optional Data: Profile photo if uploaded.</p>
+
+  <h2>3. How We Use Your Information</h2>
+  <p>• To personalize your fitness training plans.</p>
+  <p>• To save and sync your data securely with Firebase.</p>
+  <p>• To contact you upon your request (e.g., via support form).</p>
+  <p>• To improve app features and usability.</p>
+
+  <h2>4. How We Store and Protect Your Data</h2>
+  <p>• Data is stored securely on Firebase Cloud Firestore.</p>
+  <p>• Passwords are managed via Firebase Auth and are never visible to us.</p>
+  <p>• We do not share or sell your personal data to third parties.</p>
+
+  <h2>5. Your Rights</h2>
+  <p>• You can update or delete your profile from within the app.</p>
+  <p>• You can delete your entire account and associated data anytime.</p>
+  <p>• You can contact us at <a href="mailto:mehmet@finaisolution.com">mehmet@finaisolution.com</a> for any privacy-related inquiries.</p>
+
+  <h2>6. Changes</h2>
+  <p>We may update this policy. Any changes will be posted in-app and effective upon update.</p>
+
+  <p><i>Last updated: June 4, 2025</i></p>
+</body>
+</html>
